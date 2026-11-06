@@ -1,0 +1,18 @@
+{
+    "mssql.connections": [
+        {
+            "profileName": "SQLEXPRESS",
+            "server": ".\\SQLEXPRESS",
+            "database": "",
+            "authenticationType": "Integrated",
+            "user": "",
+            "password": "",
+            "savePassword": false,
+            "emptyPasswordInput": false,
+            "encrypt": "Mandatory",
+            "trustServerCertificate": true,
+            "groupId": "ROOT",
+            "id": "7c1e4b52-9a3d-4f86-b0d7-2e5a8c61f394"
+        }
+    ]
+}
