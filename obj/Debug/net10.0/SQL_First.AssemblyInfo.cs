@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQL_First")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d08c5f6a05cf251278a9a0339c8a12ae14b31a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQL_First")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQL_First")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
